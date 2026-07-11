@@ -50,16 +50,16 @@
 <picture>
     <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZH/ShuaiNingZH@main/assets/github-snake/github-snake-dark.svg"
+        srcset="https://raw.githubusercontent.com/ShuaiNingZH/ShuaiNingZH/main/assets/github-snake/github-snake-dark.svg"
     />
     <source
         media="(prefers-color-scheme: light)"
-        srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZH/ShuaiNingZH@main/assets/github-snake/github-snake.svg"
+        srcset="https://raw.githubusercontent.com/ShuaiNingZH/ShuaiNingZH/main/assets/github-snake/github-snake.svg"
     />
     <img
         width="100%"
         alt="github-snake"
-        src="https://cdn.jsdelivr.net/gh/ShuaiNingZH/ShuaiNingZH@main/assets/github-snake/github-snake.svg"
+        src="https://raw.githubusercontent.com/ShuaiNingZH/ShuaiNingZH/main/assets/github-snake/github-snake.svg"
     />
 </picture>
 
