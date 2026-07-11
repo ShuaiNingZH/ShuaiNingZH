@@ -1,6 +1,10 @@
 # This is a basic workflow to help you get started with Actions
 
 name: CI
+# 赋予读写权限，解决403
+permissions:
+  contents: write
+
 
 # Controls when the workflow will run
 on:
@@ -12,9 +16,8 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  
-permissions:
-  contents: write
+  schedule:
+    - cron: "0 0 * * *" # 每天UTC零点自动运行
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
