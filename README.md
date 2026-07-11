@@ -59,7 +59,7 @@
     <img
         width="100%"
         alt="github-snake"
-        src="https://cdn.jsdelivr.net/gh/ShuaiNingZH/ShuaiNingZH@main/assets/github-snake/ocean.svg"
+        src="https://cdn.jsdelivr.net/gh/ShuaiNingZH/ShuaiNingZH@main/assets/github-snake/github-snake.svg"
     />
 </picture>
 
