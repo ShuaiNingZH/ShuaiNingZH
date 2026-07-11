@@ -56,11 +56,6 @@
         media="(prefers-color-scheme: light)"
         srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZH/ShuaiNingZH@main/assets/github-snake/github-snake.svg"
     />
-    <img
-        width="100%"
-        alt="github-snake"
-        src="https://cdn.jsdelivr.net/gh/ShuaiNingZH/ShuaiNingZH@main/assets/github-snake/ocean.gif"
-    />
 </picture>
 
 
